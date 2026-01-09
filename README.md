@@ -399,7 +399,7 @@ git push origin feature/your-feature
 ## 📧 联系方式
 
 - **GitHub Issues**: [提交问题](https://github.com/Tonystarkw12/RPA70_Flexibility_Analysis/issues)
-- **Email**: [你的邮箱]
+- **Email**: [zhou-zh23@mails.tsinghua.edu.cn]
 
 ---
 
