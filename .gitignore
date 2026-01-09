@@ -26,10 +26,10 @@ wheels/
 # PDB结构文件（太大，不纳入版本控制）
 *.pdb
 
-# 生成的图片文件
-*.png
-*.jpg
-*.jpeg
+# 生成的图片文件（已包含PNG图片到版本控制）
+# *.png
+# *.jpg
+# *.jpeg
 
 # CSV数据文件
 *.csv
